@@ -1,4 +1,4 @@
-# BAI-TAP-05
+
 # Môn: Phát triển ứng dụng trên thiết bị dữ liệu
 # Họ tên : Nguyễn Đình Tú
 # MSSV: K225480106067
